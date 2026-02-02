@@ -1,12 +1,8 @@
-
 ---
-
 # Text Classification with Logistic Regression and Naive Bayes – Course Assignment 2
 
 This repository contains the solution to Assignment 2 of the Natural Language Processing course. The assignment focuses on text classification using Logistic Regression and Naive Bayes models, implemented both from scratch and with standard machine learning libraries.
-
 ---
-
 ## Assignment Overview
 
 The notebook is structured into two main questions:
@@ -98,7 +94,6 @@ Key components:
 
 ---
 
-
 ## Key Concepts Covered
 
 - Text preprocessing for machine learning
@@ -109,8 +104,6 @@ Key components:
 - Feature engineering in NLP
 
 ---
-
-
 
 ## Results and Analysis
 
